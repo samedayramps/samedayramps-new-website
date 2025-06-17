@@ -31,10 +31,10 @@ const Hero = () => {
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center">
           <a
-            href="tel:XXX-XXX-XXXX"
+            href="tel:940-536-9626"
             className="btn-primary shadow-lg text-xl px-8 py-4"
           >
-            Call Now: (XXX) XXX-XXXX
+            Call Now: (940) 536-9626
           </a>
           <button
             onClick={scrollToQuote}

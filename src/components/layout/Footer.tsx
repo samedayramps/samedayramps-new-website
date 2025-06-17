@@ -5,7 +5,7 @@ import { PhoneIcon, EnvelopeIcon } from '@heroicons/react/24/outline';
 
 export default function Footer() {
   const scrollToQuote = () => {
-    document.getElementById('quote')?.scrollIntoView({ behavior: 'smooth' })
+    document.getElementById('quote-calculator')?.scrollIntoView({ behavior: 'smooth' })
   }
   
   return (
@@ -27,8 +27,8 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center justify-center gap-2 md:justify-start">
                 <PhoneIcon className="h-5 w-5" />
-                <a href="tel:XXX-XXX-XXXX" className="hover:text-primary">
-                  (XXX) XXX-XXXX
+                <a href="tel:940-536-9626" className="hover:text-primary">
+                  (940) 536-9626
                 </a>
               </li>
               <li className="flex items-center justify-center gap-2 md:justify-start">

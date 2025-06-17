@@ -51,11 +51,11 @@ const Header = () => {
           {/* Desktop CTAs */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="tel:XXX-XXX-XXXX"
+              href="tel:940-536-9626"
               className="flex items-center space-x-2 text-primary hover:text-blue-700 font-semibold transition-all duration-200 hover:-translate-y-0.5"
             >
               <PhoneIcon className="h-5 w-5" />
-              <span className="text-lg">(XXX) XXX-XXXX</span>
+              <span className="text-lg">(940) 536-9626</span>
             </a>
             <button
               onClick={() => scrollToSection('quote-calculator')}
@@ -110,11 +110,11 @@ const Header = () => {
               </button>
               <div className="flex flex-col space-y-3 pt-4 border-t border-gray-200">
                 <a
-                  href="tel:XXX-XXX-XXXX"
+                  href="tel:940-536-9626"
                   className="flex items-center space-x-2 text-primary font-semibold text-lg"
                 >
                   <PhoneIcon className="h-5 w-5" />
-                  <span>(XXX) XXX-XXXX</span>
+                  <span>(940) 536-9626</span>
                 </a>
                 <button
                   onClick={() => scrollToSection('quote-calculator')}
