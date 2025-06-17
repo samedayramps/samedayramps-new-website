@@ -22,11 +22,11 @@ const faqs = [
   },
   {
     question: 'What if I need the ramp removed?',
-    answer: 'We&apos;ll remove the ramp at no additional cost when you no longer need it. Just give us a call, and we&apos;ll schedule the removal.',
+    answer: "We'll remove the ramp at no additional cost when you no longer need it. Just give us a call, and we'll schedule the removal.",
   },
   {
     question: 'Do you work with insurance companies?',
-    answer: 'While we don&apos;t directly bill insurance, we can provide documentation for you to submit to your insurance company for reimbursement.',
+    answer: "While we don't directly bill insurance, we can provide documentation for you to submit to your insurance company for reimbursement.",
   },
 ]
 
